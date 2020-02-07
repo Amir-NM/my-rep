@@ -1,0 +1,12 @@
+server  ali created channel
+ali  hello
+server  amir joined the channel.
+amir  hi
+server  amir joined the channel.
+amir  hey
+server  amir joined the channel.
+server  amir joined the channel.
+server  amir left the channel
+server  reza joined the channel.
+reza  hi
+server  reza left the channel
